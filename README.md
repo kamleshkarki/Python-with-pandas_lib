@@ -4,6 +4,7 @@ to download Python https://www.python.org/downloads/
 *******************************************
 https://www.learnpython.org/
 
+https://www.techbeamers.com/python-tutorial-step-by-step/
 Before go with Python!
 
 Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java.
