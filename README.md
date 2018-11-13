@@ -31,7 +31,7 @@ A variety of basic data types are available: numbers (floating point, complex, a
 Python supports object-oriented programming with classes and multiple inheritance.
 Code can be grouped into modules and packages.
 The language supports raising and catching exceptions, resulting in cleaner error handling.
-Data types are strongly and dynamically typed. Mixing incompatible types (e.g. attempting to add a string and a number) causes an exception to be raised, so errors are caught sooner.
+Data types are strongly and dynamically typed. Mixing incompatible types (e.g. attempting to add a string and a number) causes an exception to be raised, so errors are caught sooner
 Python contains advanced programming features such as generators and list comprehensions.
 Python's automatic memory management frees you from having to manually allocate and free memory in your code.
 See the SimplePrograms collection of short programs, gradually increasing in length, which show off Python's syntax and readability.
