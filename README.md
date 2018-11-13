@@ -1,5 +1,6 @@
-# Learning-with-python--Python 3.7.1
+# Learning-with-python for --Python 3.7.1
 Beginner in Python, 
+Data visulization and analysis via python
 to download Python https://www.python.org/downloads/
 -------------------------------------------------------------------------------------------------------------------------------
 https://www.learnpython.org/
