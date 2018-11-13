@@ -1,0 +1,12 @@
+import pandas as pd     // pandas is include in anaconda pd is panels"PD"
+from matplotlib import pyplot as plt     // use pi plot for making chart 
+x=[1,2,3]
+y=[1,4,12]
+z=[10,5,0]
+plt.plot(x,y)
+plt.plot(x,z)
+plt.title("Test plot")
+plt.xlabel("x")
+plt.ylabel("y and z")
+plt.show()
+
