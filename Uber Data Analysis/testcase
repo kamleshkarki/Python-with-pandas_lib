@@ -1,0 +1,6 @@
+import pandas
+import seaborn
+from matplotlib import pyplot as plt
+data=pd.read_csv(r'C:\Users\Rama\Desktop\DataGather\uber-raw-data-aug14.csv')
+data.tail()
+data['Date/Time'] = data['Date/Time'].map(pandas.to_datetime)
