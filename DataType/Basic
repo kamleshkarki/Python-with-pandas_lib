@@ -1,4 +1,4 @@
-# for comment
+-------------------# for comment--------------------
 
 x = 3
 print(type(x)) # Prints "<class 'int'>"
