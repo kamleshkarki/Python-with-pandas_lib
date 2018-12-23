@@ -9,7 +9,7 @@ download anaconda for windows mac Linux
 https://www.anaconda.com/download/#windows
 
 https://www.techbeamers.com/python-tutorial-step-by-step/
-Before go with Python!
+with Python!
 Some of Python's notable features:
 Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java.
 Uses an elegant syntax, making the programs you write easier to read.
