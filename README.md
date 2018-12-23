@@ -1,6 +1,6 @@
 #Python with pandas library
 # Python 3.7.1
-Data visulization and analysis via python
+Data visulization and analysis via Python with pandas library
 to download Python https://www.python.org/downloads/
 -------------------------------------------------------------------------------------------------------------------------------
 https://www.learnpython.org/
