@@ -23,3 +23,9 @@ Runs anywhere, including Mac OS X, Windows, Linux, and Unix, with unofficial bui
 
 useful links
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+pandas cookbook
+https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+https://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/v0.1/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
+https://github.com/ipython-books/cookbook-2nd-code
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
