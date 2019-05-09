@@ -21,7 +21,7 @@ Python's interactive mode makes it easy to test short snippets of code.
 Runs anywhere, including Mac OS X, Windows, Linux, and Unix, with unofficial builds also available for Android and iOS.
 
 
-useful links
+Useful links
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 pandas cookbook
