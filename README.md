@@ -29,3 +29,5 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
 https://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/v0.1/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
 https://github.com/ipython-books/cookbook-2nd-code
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+for the data set visit:https://www.stats.govt.nz/large-datasets/csv-files-for-download/
