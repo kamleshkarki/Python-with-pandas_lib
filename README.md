@@ -31,3 +31,6 @@ https://github.com/ipython-books/cookbook-2nd-code
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
 for the data set visit:https://www.stats.govt.nz/large-datasets/csv-files-for-download/
+
+for more data
+https://www.data.gov/
