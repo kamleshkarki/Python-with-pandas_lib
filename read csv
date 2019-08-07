@@ -1,0 +1,2 @@
+Location= pd.read_excel('c:/users/ayn-pc2/Desktop/Superstore.xlsx')
+Location
