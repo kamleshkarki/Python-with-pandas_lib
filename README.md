@@ -38,3 +38,4 @@ https://www.data.gov/
 Tableau with py
 https://github.com/tableau/tabpy
 https://www.youtube.com/watch?v=hp_8cDTMaGc
+https://www.bisptrainings.com/Courses/Tableau-Data-Discovery
