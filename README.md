@@ -34,3 +34,7 @@ for the data set visit:https://www.stats.govt.nz/large-datasets/csv-files-for-do
 
 for more data
 https://www.data.gov/
+
+Tableau with py
+https://github.com/tableau/tabpy
+https://www.youtube.com/watch?v=hp_8cDTMaGc
