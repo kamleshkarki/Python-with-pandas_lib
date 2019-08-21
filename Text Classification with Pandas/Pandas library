@@ -1,0 +1,10 @@
+Pandas Library
+The Pandas library is the standard API for dealing with data. 
+Data is all information we have around, information that we consider of interest. 
+Data can be numeric or textual. For our tasks of classifying text, 
+Pandas gives us tools to handle small to large text bodies, the main one being a dataframe.
+
+Dataframes are object-based structures for data storage and manipulation. 
+Through its methods, we can do many operations to the data. 
+Common ones are to filter the data into smaller sets, to add new data or dataframes to it, 
+and perform data exchanges with other dataframes.
