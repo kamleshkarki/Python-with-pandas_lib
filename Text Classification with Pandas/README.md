@@ -1,4 +1,4 @@
-*NLP and Text Mining tasks*
+*NLP and Text Mining*
 ------------------------------------------------
 that of Document Classification. 
 Note that while being common, it is far from useless, as the problem of classifying content is a constant hurdle we humans face every day.
