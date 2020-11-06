@@ -20,7 +20,12 @@ books = [
      'title': 'Dhalgren',
      'author': 'Samuel R. Delany',
      'first_sentence': 'to wound the autumnal city.',
-     'published': '1975'}
+     'published': '1975'},
+     {'id': 3,
+     'title': 'Demuk',
+     'author': 'R. Delany',
+     'first_sentence': 'The city.',
+     'published': '1985'}
 ]
 
 
