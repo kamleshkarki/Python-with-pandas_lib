@@ -3,7 +3,7 @@ from sqlalchemy.engine import URL
 import pypyodbc # pip install pypyodbc
 import pandas as pd # pip install pandas
 
-SERVER_NAME = 'SAKSOFT174PDC'
+SERVER_NAME = 'PUTSERVERNAME'
 DATABASE_NAME = 'TimeSheet'
 TABLE_NAME = 'Timesheet'
 
