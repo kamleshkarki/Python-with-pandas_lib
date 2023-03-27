@@ -6,7 +6,7 @@ import pyodbc
 conn = urllib.parse.quote_plus(
     'Data Source Name=MssqlDataSource;'
     'Driver={SQL Server};'
-    'Server=SAKSOFT174PDC;'
+    'Server=PUTSERVERNAME;'
     'Database=TimeSheets;'
     'Trusted_connection=yes;'
 )
